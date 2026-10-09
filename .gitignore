@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv*/
+.job_hunt_assistant_env/
+
+# Secrets
+.env
+utils/.env
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Private user data
+data/applications_log.csv
+data/sample_resume.txt
+
+# Generated cover letters
+data/cover_letters/*
+!data/cover_letters/.gitkeep
