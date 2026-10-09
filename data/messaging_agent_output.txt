@@ -1,8 +1,14 @@
-Hi [Recruiter/Hiring Manager Name],
 
-I’m a data professional passionate about public service, and I was excited to see the Senior Program Analyst opening in the Management and Process Analysis Division at the Bureau of Consular Affairs. My background in data analytics (SQL, Python, Power BI) and business process improvement aligns directly with your need for a subject matter expert to develop data-driven solutions for passport services challenges. I enjoy analyzing complex data, solving business problems, and translating insights into actionable recommendations.
 
-I’d welcome the chance to discuss how my analytical reasoning and problem-solving skills can support your mission. Thank you for your time and consideration.
+Subject: Interest in TEGE - Examinations; Compliance and Review (CAR) Position
 
-Best regards,  
-[Your Name]
+Hi [Name],
+
+I hope you’re having a great week. I’m reaching out to express my strong interest in the Examinations; Compliance and Review (CAR) position within the Tax Exempt and Government Entities (TEGE) business unit at the IRS.
+
+As a current permanent IRS competitive service employee and data professional passionate about public service, I’m eager to apply my analytical expertise to support the CAR team. My background includes transforming complex datasets into actionable insights using SQL, Python, and Power BI, alongside experience in stakeholder communication and process improvement.
+
+I’m particularly drawn to this opportunity because it aligns my data skills with the TEGE mission of supporting tax-exempt and government entities. I would welcome the chance to discuss how my background can contribute to the team’s success.
+
+Best regards,
+[Candidate Name]

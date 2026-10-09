@@ -1,14 +1,13 @@
-
+# USAJobs Job Posting Analysis
 
 ## Qualifications
-- Not specified in the provided job description.
+- Must be a current permanent IRS competitive service employee.
+- Must be assigned to a TEGE (Tax Exempt and Government Entities) business unit.
+- Eligibility is restricted to IRS employees within the TEGE - Exempt Organizations and Government Entities division.
+- No additional educational, experiential, or certification requirements are specified in the provided posting excerpt.
 
 ## Required Skills
-- Data analytics expertise  
-- Program analysis capability  
-- Subject matter expertise in data‑driven solutions  
-- Strong analytical reasoning and problem‑solving  
+The job excerpt does not list specific required skills. The announcement focuses exclusively on employment status and unit assignment as eligibility criteria. Given the CAR (Examinations; Compliance and Review) unit designation, typical competencies would likely involve tax-exempt organization regulations, compliance review procedures, and examination processes, but these skills are not explicitly stated in the provided text.
 
 ## Responsibilities
-- Serve as a senior program analyst and subject matter expert in data analytics.  
-- Recommend and/or develop data‑driven solutions that address the bureau’s program and business challenges.
+The provided posting does not describe specific responsibilities. It serves as an internal announcement to fill positions within the TEGE CAR business unit and includes the directive: "REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILS." Responsibilities related to examinations, compliance reviews, and functions for tax-exempt and government entities would generally align with the CAR unit's mission, but detailed duty descriptions are not included in the excerpt.
