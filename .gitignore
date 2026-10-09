@@ -2,6 +2,7 @@ __pycache__/
 *.py[cod]
 .venv/
 .venv*/
+.JOBHUNTvenv311*/
 .job_hunt_assistant_env/
 
 # Secrets
